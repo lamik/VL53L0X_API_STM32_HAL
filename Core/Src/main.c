@@ -27,6 +27,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include <stdio.h>
+#include <vl53l0x_api.h>
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
